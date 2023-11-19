@@ -5,7 +5,8 @@
 - Phone: +375445699779
 - E-mail: xsetioff@gmail.com
 - Telegram: @xSetiokda
-- Location: Belarus, Brest
+- Location: Poland, Lublin
+- From: Belarus, Brest
 - [Discord](https://discordapp.com/users/359048025018073098/)
 
 ***
@@ -19,7 +20,6 @@ I am a dedicated, organized and methodical individual. I have good interpersonal
 **💫Skills:**
 - HTML
 - CSS 
-- JavaScrip
 - Adobe Photoshop
 - Adobe Premiere Pro
 - GitHub
