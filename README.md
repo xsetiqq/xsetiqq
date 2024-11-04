@@ -2,9 +2,7 @@
 
 ***
 **👀 Contact information:** 
-- Phone: +375445699779
 - E-mail: xsetioff@gmail.com
-- Telegram: @xSetiokda
 - Location: Poland, Lublin
 - From: Belarus, Brest
 - [Discord](https://discordapp.com/users/359048025018073098/)
