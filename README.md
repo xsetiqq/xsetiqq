@@ -1,26 +1,8 @@
-## Hi, there! 👋
 
-***
-**👀 Contact information:** 
-- E-mail: xsetioff@gmail.com
-- Location: Poland, Lublin
-- From: Belarus, Brest
-- [Discord](https://discordapp.com/users/359048025018073098/)
-
-***
 
 **🌟About Me:🐾**
 
-I am a dedicated, organized and methodical individual. I have good interpersonal skills, am an excellent team worker and am keen and very willing to learn and develop new skills. I want to become a front-end developer.
-
-***
-
-**💫Skills:**
-- HTML
-- CSS 
-- Adobe Photoshop
-- Adobe Premiere Pro
-- GitHub
+A motivated IT student at Lublin University of Technology, specializing in Computer Science. Proficient in JavaScript, TypeScript, SQL, and React, with hands-on experience applying OOP principles in university projects and constructing database queries in SQL. Tackling programming challenges has strengthened my problem-solving skills and perseverance in overcoming complex issues. My goal is to further develop my career as a Frontend Developer.
 
 ***
 
@@ -28,3 +10,6 @@ I am a dedicated, organized and methodical individual. I have good interpersonal
 - Polish - Basic
 - Russian - Native 
 - English - Basic
+
+***
+
