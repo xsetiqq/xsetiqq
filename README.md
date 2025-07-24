@@ -7,9 +7,9 @@ A motivated IT student at Lublin University of Technology, specializing in Compu
 ***
 
 **🎓Languages:**
-- Polish - Basic
+- Polish - Intermediate
 - Russian - Native 
-- English - Basic
+- English - Intermediate
 
 ***
 
